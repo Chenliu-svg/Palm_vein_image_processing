@@ -2,7 +2,7 @@
 
 Palm vein image processing by traditional image process techniques
 
-PS: This is project done by Chen Liu, Haoming Chen, Peicong Zhong and Yuming Liu.
+PS: This project is done by Chen Liu, Haoming Chen, Peicong Zhong and Yuming Liu.
 ## Image Enhancement
 
 There are problems such as blurred boundaries, lack of overall contrast and clarity in the image.We enhance the image from two perspectives: spatial domain and frequency domain.
